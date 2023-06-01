@@ -4,7 +4,6 @@ let person = {
     age: 30
 };
 
-
 // Dot Notation
 person.name = 'John';
 
