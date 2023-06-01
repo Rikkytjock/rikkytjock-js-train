@@ -7,5 +7,3 @@ let selectedColor = null; // Use when we want to clear the value of a variable.
 
 
 // Primitive/Value Types = String, number bollean, undefined, null 
-
-// Undefined
